@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Tarea02</string>
+    <string name="app_name">Tarea2Java</string>
+    <string name="titulo">Jerrys Pizza</string>
+    <string name="agregar">Agregar al carrito</string>
+    <string name="compra">Comprar ahora</string>
+    <string name="elegi">Elige un producto</string>
+
+    <!--Productos-->
+    <string name="hamburguesa">Hamburguesa</string>
+    <string name="pizza">Pizza</string>
+    <string name="hampizcom">Hamburguesa y pizza</string>
+    <string name="combo1">Combo 1</string>
+    <string name="combo2">Combo 2</string>
+    <string name="combo3">Combo 3</string>
+    <string name="papas">Papas a la francesa</string>
+    <string name="refresco">Refresco</string>
+
+    <!-- Inicio de sesion -->
+    <string name="Bienvenida">Bienvenido</string>
+    <string name="correo_o_telefono">Correo o teléfono</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="registro">Registrarse</string>
+    <string name="inicio">Iniciar Sesión</string>
+    <string name="preg_cuent">¿No tienes cuenta?</string>
+
 </resources>
